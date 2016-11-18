@@ -12,6 +12,13 @@ Use naive algorithm
 ## MULTIPLE
 Use `Karatsuba` algorithm from
 
+## How to run
+
+```
+cd `path-to-Bignumbercalculator`
+ruby sample.rb
+```
+
 http://www.geeksforgeeks.org/divide-and-conquer-set-2-karatsuba-algorithm-for-fast-multiplication/
 
 ## TODO
