@@ -11,3 +11,6 @@ Use naive algorithm
 ## MULTIPLE
 Use `Karatsuba` algorithm from
 http://www.geeksforgeeks.org/divide-and-conquer-set-2-karatsuba-algorithm-for-fast-multiplication/
+
+## TODO
+Optimize code
